@@ -1,8 +1,8 @@
 ﻿<configuration>
-  <color>blue</color>
+  <color>green</color>
   <text>
     <description>
-      <data>Hello ASP.NET Core</data>
+      <data>XML</data>
     </description>
   </text>
 </configuration>
