@@ -1,0 +1,8 @@
+﻿<configuration>
+  <color>green</color>
+  <text>
+    <description>
+      <data>XML</data>
+    </description>
+  </text>
+</configuration>

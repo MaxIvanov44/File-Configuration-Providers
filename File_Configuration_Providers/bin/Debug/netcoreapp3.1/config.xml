@@ -1,0 +1,8 @@
+﻿<configuration>
+  <color>blue</color>
+  <text>
+    <description>
+      <data>Hello ASP.NET Core</data>
+    </description>
+  </text>
+</configuration>
